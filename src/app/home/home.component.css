@@ -1,0 +1,13 @@
+table {
+    width: 100%;
+    color: black;
+  } 
+
+  th.mat-sort-header-sorted {
+    color: white;
+    background-color: white;
+  }
+  .example-container {
+    width: 100%;
+    height: 100%;
+  }

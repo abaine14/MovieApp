@@ -1,0 +1,30 @@
+<!-- Dialog Box-->
+<h1 mat-dialog-title>Movie Form</h1>
+<div mat-dialog-content style="width: 300px;">
+  <p>Movie not on our the list?<br/> Add it below</p>
+  <mat-form-field>
+    <input matInput placeholder="Title" required/>
+  </mat-form-field>
+  <mat-form-field>
+    <input matInput placeholder="Image URL"/>
+    </mat-form-field>
+    <mat-form-field>
+        <input matInput placeholder="Genre"/>
+    </mat-form-field>
+    <mat-form-field>
+    <input matInput placeholder="Price" required/>
+    </mat-form-field>
+    <mat-form-field>
+        <input matInput placeholder="Description" />
+    </mat-form-field>
+    <mat-form-field>
+        <input matInput placeholder="Stock" />
+    </mat-form-field>
+    <mat-form-field>
+        <input matInput placeholder="Additional Info"/>
+    </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button mat-dialog-close style="background-color: #4b4fb2; color: white; font-size: 20px;">Quit</button>
+  <button mat-button  mat-dialog-close style="background-color: #4b4fb2; color: white; font-size: 20px;">Continue</button>
+</div>
