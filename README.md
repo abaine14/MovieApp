@@ -22,6 +22,8 @@ are clickable and sort the column.<br/><br/>
 
 Link with the cart logic is available at this link https://angular-4wsmg1.stackblitz.io <br/>
 Add items to cart | Remove Items from cart | Click the button multiple times to update quantity<br/>
-Code is available one StackBlitz as well. Cheers!
+Code is available to view on StackBlitz as well with this URL https://stackblitz.com/edit/angular-4wsmg1.
+
+<br/><br/> Cheers!
 
 
