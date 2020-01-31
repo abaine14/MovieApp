@@ -18,4 +18,10 @@ At the bottom of the homepage there is a pagination bar that allows you <br/>
 adjust the amount of data you would like to view from the list.<br/><br/>
 
 The 'Movie Title, Genres, and Description' labels at the top of each column<br/>
-are clickable and sort the column.
+are clickable and sort the column.<br/><br/>
+
+Link with the cart logic is available at this link https://angular-4wsmg1.stackblitz.io <br/>
+Add items to cart | Remove Items from cart | Click the button multiple times to update quantity<br/>
+Code is available one StackBlitz as well. Cheers!
+
+
